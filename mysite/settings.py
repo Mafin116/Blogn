@@ -25,7 +25,7 @@ SECRET_KEY = '_q&1*e6wd(^ch2u-m+qsl*)y5ont37nob%hg5-=9n#)et&g8c7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'mafin.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '<mafin>.pythonanywhere.com']
 
 
 # Application definition
